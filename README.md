@@ -1,1 +1,5 @@
 PHPのサンプルプログラム
+・Composer
+　Composer version 2.9.2 2025-11-19 21:57:25
+・ライブラリ
+　composer require guzzlehttp/guzzle "^7.5"
